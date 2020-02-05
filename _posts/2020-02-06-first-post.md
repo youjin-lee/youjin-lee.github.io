@@ -1,6 +1,6 @@
 ---
 title: "Contents of Records"
-date: 2020-02-05 13:50:28 -0400
+date: 2020-02-06 13:50:28 -0400
 categories: deeplearning
 ---
 
