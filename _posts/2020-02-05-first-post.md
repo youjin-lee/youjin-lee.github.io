@@ -1,6 +1,7 @@
 ---
 title: "Contents of Records"
 date: 2020-02-05 13:50:28 -0400
+categories: deeplearning
 ---
 
 ## :cactus: List of Contents
